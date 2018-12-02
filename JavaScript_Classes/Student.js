@@ -5,3 +5,5 @@ class Student {
     this.lastName = lastName;
   }
 }
+
+let newStudent = new Student("Travis", "Cooper");
